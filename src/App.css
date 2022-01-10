@@ -27,7 +27,6 @@ body,
   align-items: center;
   justify-content: center;
   padding: 10px;
-  font-style: italic;
 }
 
 .App {
@@ -53,7 +52,7 @@ body,
 }
 
 .card {
-  font-size: 6rem;
+  font-size: 8rem;
   border-radius: 20px;
   background-color: #ecf0f1;
   padding: 50px;
